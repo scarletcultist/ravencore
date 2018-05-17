@@ -81,10 +81,10 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "ravencore-lib": "underdarkskies/ravencore-lib",
-    "ravencore-node": "underdarkskies/ravencore-node",
-    "insight-api": "underdarkskies/insight-api",
-    "insight-ui": "underdarkskies/insight-ui"
+    "ravencore-lib": "underdarkskies/ravencore-lib#DEV",
+    "ravencore-node": "underdarkskies/ravencore-node#DEV",
+    "insight-api": "underdarkskies/insight-api#DEV",
+    "insight-ui": "underdarkskies/insight-ui#DEV"
   },
   "license": "MIT",
   "devDependencies": {
